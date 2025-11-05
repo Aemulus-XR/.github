@@ -105,7 +105,7 @@ Credits
 -------
 **Copyright (c) (2025):** [Aemulus XR](https://github.com/Aemulus-XR)  - All rights reserved   
 *[.github](https://github.com/Aemulus-XR/.github) is licensed under the [MIT License](LICENSE.md).*   
-*Repo initialized with the [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)*  
+*repo generated from [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)*  
 
 Project Link:  [.github](https://github.com/Aemulus-XR/.github)  
 [CHANGELOG](notes/CHANGELOG.md)  
